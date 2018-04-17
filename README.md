@@ -1,1 +1,2 @@
-# ami-LatihannGitHub
+# tic-bpwlproject
+Latihan GitHub
